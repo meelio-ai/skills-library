@@ -1,4 +1,4 @@
-# Meelio Open Clinical Skills Library
+# Functional Medicine Clinical Skills Library
 
 **Repeatable AI workflows for functional & integrative medicine — written by clinicians, for clinicians.**
 
