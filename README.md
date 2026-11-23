@@ -2,7 +2,7 @@
 
 **Repeatable AI workflows for functional & integrative medicine — written by clinicians, for clinicians.**
 
-A *skill* is a clinical procedure written down once — "how I review a GI-MAP", "how I interpret a DUTCH panel against the chart" — that an AI assistant can then follow every time, consistently. This library collects openly licensed, clinician-authored skills that work in [Meelio](https://meelio.ai), Claude, and ChatGPT.
+A *skill* is a clinical procedure written down once — "how I review a GI-MAP", "how I interpret a DUTCH panel against the chart" — that an AI assistant can then follow every time, consistently. This library collects openly licensed, clinician-authored skills that work in [Ena](https://meetena.ai) (formerly Meelio), Claude, and ChatGPT.
 
 > ⚕️ **For licensed healthcare professionals only.** These skills are clinical decision-support procedures. They do not diagnose, treat, or replace clinical judgment. Read the [full disclaimer](DISCLAIMER.md) before use.
 
