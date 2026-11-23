@@ -19,14 +19,14 @@ Many skills in this library reference "functional" or "optimal" ranges used in i
 **You are solely responsible for how patient data is handled when you run these skills.**
 
 - Protected health information (PHI) may only be processed on platforms with which you (or your organization) have appropriate safeguards in place — under HIPAA in the US, that generally means an executed Business Associate Agreement (BAA), plus your own policies and patient consents.
-- **Meelio** ([meelio.ai](https://meelio.ai)) is built for HIPAA compliance and offers BAAs to covered entities (contact privacy@meelio.ai). Skills there run against the patient record inside that compliance boundary.
+- **Ena** ([meetena.ai](https://meetena.ai)) asks every practice subject to HIPAA to sign a BAA. Skills there run against the patient record.
 - **Consumer and standard team plans of ChatGPT and Claude are not HIPAA compliant** and do not include a BAA. On those platforms, use fully de-identified data only. Enterprise agreements with OpenAI or Anthropic may include a BAA — verify your organization's specific contract before assuming coverage.
 - De-identification under the HIPAA Safe Harbor method requires removal of **all 18 identifiers** — including names, all dates more specific than year, ages over 89, geographic subdivisions smaller than a state, MRNs, and account numbers — not merely the patient's name.
 - Equivalent obligations may apply under GDPR, PIPEDA, and state privacy laws. Compliance is your responsibility, not the skill author's.
 
 ## 5. No clinician–patient relationship; no warranty
 
-Use of these skills creates no clinician–patient relationship with the skill authors, contributors, or Meelio. The skills are provided **"as is," without warranty of any kind**, express or implied, including accuracy, completeness, fitness for a particular purpose, or non-infringement. To the maximum extent permitted by law, the authors, contributors, and Meelio disclaim all liability arising from the use of, or reliance on, these skills or their outputs.
+Use of these skills creates no clinician–patient relationship with the skill authors, contributors, or Ena. The skills are provided **"as is," without warranty of any kind**, express or implied, including accuracy, completeness, fitness for a particular purpose, or non-infringement. To the maximum extent permitted by law, the authors, contributors, and Ena disclaim all liability arising from the use of, or reliance on, these skills or their outputs.
 
 ## 6. Currency of content
 
